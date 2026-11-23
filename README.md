@@ -3,7 +3,7 @@
 > **Official Creator Showcase & Documentation Repository by Hanzo**  
 > **独立模组开发者 Hanzo 官方作品展示与文档主页（《骑马与砍杀2：霸主》）**
 
-[![Afdian](https://img.shields.io/badge/Afdian%20%E7%88%B1%E5%8F%91%E7%94%B5-Official%20Page-946ce6?style=for-the-badge)](CHÈN_LINK_AFDIAN_CỦA_BẠN)
+[![Afdian](https://img.shields.io/badge/Afdian%20%E7%88%B1%E5%8F%91%E7%94%B5-Official%20Page-946ce6?style=for-the-badge)](https://afdian.com/a/hanzo)
 [![Bannerlord](https://img.shields.io/badge/Bannerlord-v1.2.12-8b0000?style=for-the-badge)](#)
 [![Languages](https://img.shields.io/badge/Languages-CNs%20%7C%20EN%20%7C%20VI-1f4e79?style=for-the-badge)](#)
 
