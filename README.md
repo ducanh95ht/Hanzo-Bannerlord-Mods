@@ -27,8 +27,6 @@
 
 ### 📸 In-Game Screenshots / 实机展示截图
 
-*(Tất cả hình ảnh dưới đây là ảnh chụp thực tế trong game — xóa dòng ghi chú này và giữ đúng tên file bạn tải lên thư mục `screenshots/`)*
-
 | Showcase 1 | Showcase 2 |
 | :---: | :---: |
 | ![Showcase 1](1.png) | ![Showcase 2](2.png) |
