@@ -11,7 +11,7 @@
 
 ## 🔗 Official Creator Links / 官方主页与认证说明
 
-- **爱发电官方主页 (Official Afdian Page):** [CHÈN_LINK_AFDIAN_CỦA_BẠN](https://afdian.com/a/hanzo)
+- **爱发电官方主页 (Official Afdian Page):** [https://afdian.com/a/hanzo]
 - **中文完整功能手册与新手指南 (Full CN Manual – Tencent Docs):** [点击在线查看完整手册](https://docs.qq.com/doc/DS0JqV0JQQXd4T2tw)
 
 *(Hi Afdian team: I am **Hanzo**, independent mod developer for Mount & Blade II: Bannerlord. This repository showcases my original mod development work and officially links to my Afdian creator page above.)*  
@@ -26,6 +26,7 @@
 *A large-scale strategic, RPG progression, and performance expansion built for YiGu Three Kingdoms (Bannerlord v1.2.12).*
 
 ### 📸 In-Game Screenshots / 实机展示截图
+
 
 | Showcase 1 | Showcase 2 |
 | :---: | :---: |
